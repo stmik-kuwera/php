@@ -1,4 +1,3 @@
-ARG PHP_VERSION="8.3"
 FROM serversideup/php:8.5-frankenphp
 
 USER root
